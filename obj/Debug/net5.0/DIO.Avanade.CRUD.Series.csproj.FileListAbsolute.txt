@@ -1,0 +1,16 @@
+C:\Users\Hugo\DIO.Avanade.CRUD.Series\obj\Debug\net5.0\DIO.Avanade.CRUD.Series.csproj.AssemblyReference.cache
+C:\Users\Hugo\DIO.Avanade.CRUD.Series\obj\Debug\net5.0\DIO.Avanade.CRUD.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\DIO.Avanade.CRUD.Series\obj\Debug\net5.0\DIO.Avanade.CRUD.Series.AssemblyInfoInputs.cache
+C:\Users\Hugo\DIO.Avanade.CRUD.Series\obj\Debug\net5.0\DIO.Avanade.CRUD.Series.AssemblyInfo.cs
+C:\Users\Hugo\DIO.Avanade.CRUD.Series\obj\Debug\net5.0\DIO.Avanade.CRUD.Series.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\DIO.Avanade.CRUD.Series\bin\Debug\net5.0\DIO.Avanade.CRUD.Series.exe
+C:\Users\Hugo\DIO.Avanade.CRUD.Series\bin\Debug\net5.0\DIO.Avanade.CRUD.Series.deps.json
+C:\Users\Hugo\DIO.Avanade.CRUD.Series\bin\Debug\net5.0\DIO.Avanade.CRUD.Series.runtimeconfig.json
+C:\Users\Hugo\DIO.Avanade.CRUD.Series\bin\Debug\net5.0\DIO.Avanade.CRUD.Series.runtimeconfig.dev.json
+C:\Users\Hugo\DIO.Avanade.CRUD.Series\bin\Debug\net5.0\DIO.Avanade.CRUD.Series.dll
+C:\Users\Hugo\DIO.Avanade.CRUD.Series\bin\Debug\net5.0\ref\DIO.Avanade.CRUD.Series.dll
+C:\Users\Hugo\DIO.Avanade.CRUD.Series\bin\Debug\net5.0\DIO.Avanade.CRUD.Series.pdb
+C:\Users\Hugo\DIO.Avanade.CRUD.Series\obj\Debug\net5.0\DIO.Avanade.CRUD.Series.dll
+C:\Users\Hugo\DIO.Avanade.CRUD.Series\obj\Debug\net5.0\ref\DIO.Avanade.CRUD.Series.dll
+C:\Users\Hugo\DIO.Avanade.CRUD.Series\obj\Debug\net5.0\DIO.Avanade.CRUD.Series.pdb
+C:\Users\Hugo\DIO.Avanade.CRUD.Series\obj\Debug\net5.0\DIO.Avanade.CRUD.Series.genruntimeconfig.cache

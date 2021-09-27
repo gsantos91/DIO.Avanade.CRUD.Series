@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DIO.Avanade.CRUD.Series/1.0.0": {
+        "runtime": {
+          "DIO.Avanade.CRUD.Series.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIO.Avanade.CRUD.Series/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
